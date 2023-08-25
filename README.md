@@ -14,6 +14,11 @@ Shutil module
 5. Try the script, If it runs correctly make the script run on the start up of your linux system
 6. Enjoy your new inspirational wallpaper!
 
+# Example
+My original wallpaper:
+![BackgroundBefore](/assets/Before.png)
+My wallpaper after running the script:
+![BackgroundAfter](/assets/After.png)
 
 # API
 The script uses the API from https://api.quotable.io/random?tags=inspirational to get a random quote. The API is free to use and doesn't require a key. The API returns a random quote in JSON format.
